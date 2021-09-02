@@ -54,7 +54,7 @@
         </div>
         <div class="row">
           
-          {{--
+          {{---
           <div class="col-md-6">
             <div class="row">
               <div class="col-6-sm col-md-12">
